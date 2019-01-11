@@ -1,3 +1,5 @@
+package ders;
+
 import java.util.Scanner;
 
 public class ders3 {
@@ -83,7 +85,7 @@ public class ders3 {
          String var = konsol.next();
          System.out.println("Input Value to be converted:");
          double val = konsol.nextDouble();
-      /*
+
           if ( var.equals("C")) || (var.equals("c"))
               System.out.println( val + "C=" + (val*1.8+32) + "F");
 
@@ -103,8 +105,8 @@ public class ders3 {
         else System.out.println("Yanlis deger girdiniz");
       */
 
-       /*
-        System.out.println("Input value to be converted");
+
+     /*   System.out.println("Input value to be converted");
         String input = konsol.next();
         char choice = input.charAt(input.length()-1);
         double val = Double.parseDouble(
@@ -114,10 +116,10 @@ public class ders3 {
             System.out.println(val+" C = "+ (val*1.8+32) +" F");
         else if(choice == 'F')
             System.out.println(val+" F = "+ ((val-32)/1.8) +" C");
-        else System.out.println("Yanlis deger girdiniz");
-       */
+        else System.out.println("Yanlis deger girdiniz");*/
 
 
+      /*
         System.out.println("Kilonuzu giriniz (kg)");
         double kilo = konsol.nextDouble();
 
@@ -132,10 +134,7 @@ public class ders3 {
             System.out.println("İyi");
         }
 
-        else System.out.println("doktora gidin");
-
-
-
+        else System.out.println("doktora gidin"); */
 
 
     }

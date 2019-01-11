@@ -1,3 +1,4 @@
+package ders;
 
 public class ders1 {
 
@@ -25,9 +26,7 @@ public class ders1 {
 
         System.out.println(y + " " + d + " " + z);
         */
-
-
-
+/**
         double myPi =3.1415;
         String a = "7";
         boolean truefalse = false;
@@ -39,6 +38,7 @@ public class ders1 {
         c*= 3;
 
         System.out.println(c);
+*/
 
     }
 }
